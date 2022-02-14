@@ -8,18 +8,19 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- < Provide a short description of your program's functionality. No more than a couple sentences. >
+ Part A shows the cost per week and cost per class from the given information. This includes the number of weeks, classes, tuition, classes per week, and cost per week. Part B shows a list that utilizes a mix of strings, integers, and floats. Within this list, the random module selects random elements. 
 
 ## GRACE DAYS
-Grace days used for this assignment: < # >
+Grace days used for this assignment: 0 grace days used
 
-Grace days remaining: < # >/5
+Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- < What parts of the project you were not able to complete >
+ No bugs or incomplete parts
 
 ## REFERENCES:
- < List any outside resources used >
+ https://runestone.academy/ns/books/published/thinkcspy/PythonModules/Therandommodule.html
+ https://www.w3schools.com/python/python_lists.asp
 
 ## MISCELLANEOUS COMMENTS:
- < Anything you would like the grader to know >
+ Nothing of importance to note

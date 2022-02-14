@@ -16,7 +16,7 @@ Grace days used for this assignment: 0 grace days used
 Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- No bugs or incomplete parts
+ No bugs or incomplete parts that are known
 
 ## REFERENCES:
  https://runestone.academy/ns/books/published/thinkcspy/PythonModules/Therandommodule.html
